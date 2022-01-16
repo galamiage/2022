@@ -9,7 +9,7 @@
 	<title>
 	Commentaires sur : Bonjour tout le monde !	</title>
 	<atom:link href="http://localhost/Gala/bonjour-tout-le-monde/feed/" rel="self" type="application/rss+xml" />
-	<link>https://galamiagebordeaux.github.io/2022/bonjour-tout-le-monde/</link>
+	<link>https://gala2022.miagebordeaux.fr/bonjour-tout-le-monde/</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Dec 2021 13:43:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Par : Un commentateur WordPress		</title>
-		<link>https://galamiagebordeaux.github.io/2022/bonjour-tout-le-monde/#comment-1</link>
+		<link>https://gala2022.miagebordeaux.fr/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Fri, 03 Dec 2021 13:43:39 +0000</pubDate>
-		<guid isPermaLink="false">https://galamiagebordeaux.github.io/2022/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://gala2022.miagebordeaux.fr/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
