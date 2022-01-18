@@ -9,7 +9,7 @@
 	<title>
 	Commentaires pour Gala Miage 2022	</title>
 	<atom:link href="http://localhost/Gala/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>https://gala2022.miagebordeaux.fr</link>
+	<link>https://gala.miagebordeaux.fr</link>
 	<description></description>
 	<lastBuildDate>Fri, 03 Dec 2021 13:43:39 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		Commentaires sur Bonjour tout le monde ! par Un commentateur WordPress		</title>
-		<link>https://gala2022.miagebordeaux.fr/bonjour-tout-le-monde/#comment-1</link>
+		<link>https://gala.miagebordeaux.fr/bonjour-tout-le-monde/#comment-1</link>
 
 		<dc:creator><![CDATA[Un commentateur WordPress]]></dc:creator>
 		<pubDate>Fri, 03 Dec 2021 13:43:39 +0000</pubDate>
-		<guid isPermaLink="false">https://gala2022.miagebordeaux.fr/?p=1#comment-1</guid>
+		<guid isPermaLink="false">https://gala.miagebordeaux.fr/?p=1#comment-1</guid>
 
 					<description><![CDATA[Bonjour, ceci est un commentaire.
 Pour débuter avec la modération, la modification et la suppression de commentaires, veuillez visiter l’écran des Commentaires dans le Tableau de bord.
